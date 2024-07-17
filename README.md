@@ -1,4 +1,4 @@
-# Analisis educativo de Argentina
+# Analisis sistema educativo de Argentina
 
 ![portada](./datos/brutos/school.svg)
 
@@ -7,7 +7,7 @@
 
 ## Estructura de Directorios y Archivos Resultantes
 
-    Asistente inteligente
+    Analisis sistema educativo de Argentina
     │
     ├── datos # CSV's
     | |
